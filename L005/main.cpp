@@ -1,4 +1,4 @@
-// Jaward/Jaykef (苏杰）| 
+// Jaward/Jaykef (苏杰）| main.cpp
 #include "mainwindow.h"
 #include <QApplication>
 #include <QLabel>

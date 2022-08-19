@@ -1,5 +1,4 @@
 // Jaward/Jaykef (苏杰）｜ main.js
-
 #include "mainwindow.h"
 #include <QApplication>
 #include <QGridLayout>
